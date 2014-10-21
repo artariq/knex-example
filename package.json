@@ -1,0 +1,19 @@
+{
+  "name": "knex-example",
+  "version": "0.0.1",
+  "description": "My first bookshelf and knex example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artariq/knex-example.git"
+  },
+  "author": "Rushdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artariq/knex-example/issues"
+  },
+  "homepage": "https://github.com/artariq/knex-example"
+}
